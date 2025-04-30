@@ -1,6 +1,4 @@
-# Clean Course Notes
-
-**Introduction**  
+# **Introduction**  
 These notes are from the Udemy course “[Advanced Solidity: Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs/)”.
 
 ## Table of Contents
